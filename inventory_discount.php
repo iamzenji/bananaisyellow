@@ -110,7 +110,7 @@ if (strlen($_SESSION['employee_id']) === 0) {
                                         </ul>
                                     </nav>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-1">
                                     <div class="d-flex justify-content-end">
                                         <label for="rowsPerPage" class="mr-2" style="flex-shrink: 0;">Rows per page:</label>
                                         <select class="form-control pl-2" id="rowsPerPage" style="width: 60px;">

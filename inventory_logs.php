@@ -129,7 +129,7 @@ if (empty($_SESSION['employee_id'])) {
                                             <option value="25">25</option>
                                             <option value="50">50</option>
                                             <option value="100">100</option>
-                                            <option value="-1">All</option>
+                                            <option value="1000">All</option>
                                         </select>
                                     </div>
                                 </div>

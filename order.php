@@ -79,7 +79,7 @@ if (strlen($_SESSION['employee_id']) === 0) {
                         <ul class="list">
                             <li class="d-flex justify-content-between align-items-center">
                                 <h2 class="me-3">Order List</h2>
-                                <a href="order-add.php" class="btn btn-primary btn-rounded">
+                                <a href="order-add.php" class="btn btn-warning btn-rounded">
                                     <i class="fas fa-plus"></i> Add Order
                                 </a>
                             </li>

@@ -46,7 +46,7 @@ include 'includes/header.php';
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="submit" name="insertdata" class="btn btn-primary">Save Data</button>
+                        <button type="submit" name="insertdata" class="btn btn-warning">Save Data</button>
                     </div>
                 </form>
 
@@ -99,7 +99,7 @@ include 'includes/header.php';
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="submit" name="updatedata" class="btn btn-primary">Update Data</button>
+                        <button type="submit" name="updatedata" class="btn btn-warning">Update Data</button>
                     </div>
                 </form>
 
@@ -142,7 +142,7 @@ include 'includes/header.php';
             </div>
             <div class="card-body d-flex justify-content-between align-items-center">
                 <h2> Supplier List </h2>
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addSupplierModal">
+                <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#addSupplierModal">
                     <i class="bi bi-plus-lg"></i>Add Supplier
                 </button>
             </div>

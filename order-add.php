@@ -143,7 +143,7 @@ if (strlen($_SESSION['employee_id']) === 0) {
 
                         </div>
 
-                        <button type="button" class="btn btn-primary" onclick="addToCart()">Add to Cart</button>
+                        <button type="button" class="btn btn-warning" onclick="addToCart()">Add to Cart</button>
                         <button type="submit" class="btn btn-success" name="placeorder">Purchase</button>
                     </form>
                 </div>
